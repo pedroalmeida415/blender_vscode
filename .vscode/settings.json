@@ -15,5 +15,9 @@
     "spellright.documentTypes": [
         "markdown",
         "plaintext"
-    ]
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
 }
